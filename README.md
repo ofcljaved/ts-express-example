@@ -1,6 +1,7 @@
 # Adding TypeScript to an Express Project
 
 This is a simple Express project that uses TypeScript.
+
 It shows you how to extend the Express Request type to add a custome property.
 
 You need to create a types folder, you can create it in the root of your project or in a src folder.
